@@ -22,7 +22,7 @@ Vanessa McAfee - JavaScript/jQuery/jQueryUI work, working with last.fm API and g
 <p>HTML, CSS, JavaScript/jQuery, D3.js, Last.fm API, google maps API, YouTube API for player</p>
 
 <h3>Link to the demo</h3>
-<p>http://people.ischool.berkeley.edu/~ajeeta/iolab4/</p>
+<p>http://people.ischool.berkeley.edu/~dheera/iolab4-final/</p>
 
 <h3>Known Bugs</h3>
 Sometimes, the markers take a while to show up on initial load.
